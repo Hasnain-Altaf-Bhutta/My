@@ -1,26 +1,30 @@
-# ⭐ OFFICIAL DOMAIN VERIFICATION: GLAZEWM.COM ⭐
+# GlazeWM.com – Independent Fan & Documentation Website
 
-This repository serves as the public verification and administrative record for the domain **glazewm.com**.
+This repository serves as a public record for the independent domain glazewm.com.
 
----
+## DISCLAIMER
 
-## # ADMINISTRATIVE AUTHORITY
-This repository confirms that the GitHub account **Hasnain-Altaf-Bhutta** has the official authorization to manage the digital assets and domain names for **Glzr Software Pte. Ltd**.
+This website is an independent informational and documentation resource for users of GlazeWM.
 
----
+We are NOT the official developers of GlazeWM and are NOT affiliated with Glzr Software Pte. Ltd.
 
-## # PROJECT INFORMATION
-- **Project Name:** GlazeWM (Tiling Window Manager for Windows)  
-- **Official Domain:** glazewm.com  
-- **Authorized Representative:** Hasnain Altaf  
-- **Purpose:** Official documentation hosting, software distribution, and developer support.
+## PURPOSE
 
----
+The purpose of glazewm.com is to:
 
-## # COMPLIANCE STATEMENT
-This record is provided as proof of identity and authorization for our domain registrar (**Spaceship.com**) regarding the suspension of **glazewm.com**.  
-We confirm that all activities on this domain are **legitimate, open-source, and strictly for software development purposes**.
+• Provide tutorials  
+• Provide guides  
+• Link to official sources  
 
----
+We do NOT claim ownership of the GlazeWM software.
 
-**Last Updated:** February 2026 ⭐
+All rights belong to their respective owners.
+
+## OFFICIAL SOURCE
+
+Official GlazeWM website:
+https://github.com/glzr-io/glazewm
+
+## CONTACT
+
+Domain Owner: Hasnain Altaf
